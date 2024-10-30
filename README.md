@@ -1,1 +1,1 @@
-# AJAX-in-Web-Technology-and-Applications
+This repository hosts a group presentation titled "AJAX in Web Technology and Applications." This PowerPoint explores the fundamentals of AJAX (Asynchronous JavaScript and XML), its core components, and its role in enhancing user experience through asynchronous web interactions. The presentation also examines real-world applications of AJAX in modern web development.
